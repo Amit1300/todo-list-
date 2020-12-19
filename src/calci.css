@@ -1,0 +1,92 @@
+input,select{
+    
+    margin-left:30px;
+    box-shadow: 10px 13px 14px ;
+    margin-top:20px;
+    border:2px solid blue;
+}
+
+label{
+    margin-left:250px;
+    box-shadow: 10px 13px 14px ;
+    margin-top:50px;
+
+
+}
+
+.cal{margin-left:300px;
+    margin-bottom:0px;
+    box-shadow: 20px 133px 124px;
+    background-color:green;
+    border: 4px solid black;
+    color:white;
+}
+
+
+.cal1{margin-left:350px;
+        margin-bottom:5px;
+        box-shadow: 10px 13px 14px;
+        background-color:blue;
+        border: 4px solid black;
+        color:white;
+}
+
+button{
+    margin-left:20px;
+    box-shadow: 10px 13px 14px;
+    background-color:blue;
+    border: 4px solid black;
+    color:white;
+
+
+}
+
+.tipcal{
+    background-color: blue;
+    text-align:center;
+    box-shadow: 12px 13px 14px ;
+    color:white;
+}
+
+
+.div{
+    margin-left:400px;
+    border:2px solid black;
+    width:700px;
+    box-shadow: 20px 35px 30px;
+}
+
+.half{
+    width:50%;
+    float:left;
+    text-align: center;
+    background-color: rgb(157, 255, 29);
+    box-shadow: 10px 13px 14px;
+}
+
+
+.long{
+    width:70%;
+    margin-top:30px;
+    box-shadow: 10px 13px 14px;
+}
+
+
+hr{
+    margin-top:10px;
+    border:2px solid green;
+    box-shadow: 10px 13px 14px;
+}
+
+span{
+    margin-left:80px;
+    box-shadow: 10px 13px 14px;
+}
+
+
+footer{
+    text-align:center;
+    background-color: black;
+    color:white;
+    box-shadow: 10px 13px 14px;
+}

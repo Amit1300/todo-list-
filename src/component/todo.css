@@ -1,0 +1,25 @@
+.todo_main{
+ margin-left:100px;
+ margin-top:20px;
+ display:inline-block;
+}
+
+
+
+.firstone{
+    margin-left:500px;
+    width:500px;
+    height: 800px;
+    border:2px solid black;
+    box-shadow: 20px 40px 50px green;
+    border-radius: 2%;
+
+}
+
+.heading{
+    
+    background-color:#6DE05B;
+    display: flex;
+    justify-content:center;
+    border-radius: 4%;
+}

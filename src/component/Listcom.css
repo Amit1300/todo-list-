@@ -1,0 +1,45 @@
+.main_todo{
+display:flex;
+margin-top:5px;
+
+
+}
+
+button{
+    background-color:black;
+    color:white;
+    margin-left:10px;
+    height:30px;
+    padding:5px;
+}
+
+
+button:hover{
+    background-color: blue;
+}
+
+
+.delete_button{
+    background-color: blue;
+    opacity: 0.6;
+    height:22px;
+    border:2px solid black;
+}
+
+input[type="checkbox"]{
+    width:20px;
+    
+}
+
+input{
+    height:20px;
+    width:150px;
+    box-shadow: 3px 4px 6px solid black;
+    margin-left:5px;
+}
+
+p{
+    font-size:12px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
